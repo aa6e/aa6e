@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Martin, @aa6e
 - 👀 I’m interested in Amateur Radio, radio astronomy, Python, etc.
-- 💞️ I’m looking to collaborate on ...
 - 📫 aa6e@arrl.net
 
 <!---
